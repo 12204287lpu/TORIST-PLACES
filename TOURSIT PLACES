@@ -1,0 +1,92 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>TOURIST  PLACES</title>
+        <style>
+            #A{
+                text-decoration: wavy underline blue;
+                color: rgb(226, 41, 112);
+            }
+            #I{
+                width: 30%;
+                margin-top: 5%;
+                border: solid rgba(255, 7, 7, 0) 15px;
+                border-style: double;
+                border-radius: 2px;
+                width: 360px;
+                height: 280px;
+                padding: 10px;
+                background-color: rgba(223, 253, 56, 0);
+                border-spacing: 2px;
+            }
+            #B{
+                text-decoration: dotted double underline;
+            }
+            #X{
+                border: solid rgb(0, 0, 0) 15px;
+                border-style: double;
+                border-radius: 5px;
+                width: 1100px;
+                height: 250px;
+                padding: 20px;
+                font-size: x-large;
+                font-style: italic;
+                font-family: fantasy;
+                color: rgb(224, 48, 48);
+                background-color: rgb(56, 253, 220);
+                border-spacing: 2px;
+            }
+            #Z{
+                border: solid rgb(0, 0, 0) 15px;
+                border-style: double;
+                border-radius: 5px;
+                width: 850px;
+                height: 350px;
+                padding: 20px;
+                font-size: x-large;
+                font-style: italic;
+                font-family: fantasy;
+                color: rgb(224, 48, 48);
+                background-color: rgb(56, 253, 220);
+                border-spacing: 2px;
+            }
+            #F{
+                font: bolder;
+                font-size: x-large;
+                color: #ff2fdc;
+                background-repeat: repeat-y;
+                background-size: 100%;
+            }  
+            
+                /*background-image:url("C:/Users/ADMIN/Desktop/Project O/background/Ooty1.jpg") */
+
+            
+        </style>
+    </head>
+    <body>
+        <h1 id="A"><center><bold><i>TOURIST PLACES</i></bold></center></h1>
+        <h2 id="B">1.OOTY</h2>
+        <p id="X">Ooty ,officially known as Udhagamandalam (also known as Ootacamund ; abbreviated as Udhagai),
+            is a city and a municipality in the Nilgiris district of the South Indian state of Tamil Nadu.
+            It is located 86 km (53 mi) north west of Coimbatore and 128 km (80 mi) south of Mysore and is
+            the headquarters of the Nilgiris district. It is a popular hill station located in the Nilgiri Hills.
+            It is popularly called the Queen of Hill Stations. It was the summer capital of the Madras Presidency.
+        </p><br><br>
+        <img src="" id="I" align="right">
+        <p id="Z">
+            Originally occupied by the Toda people, the area came under the rule of the East India Company at the <br> end of the 18th century.
+            The economy is based on tourism and agriculture, along with the manufacture of <br> medicines and photographic film.
+            The town is connected by the Nilgiri ghat roads and Nilgiri Mountain Railway.<br> Its natural environment attracts tourists and , 
+            it is a popular summer destination. In 2011, the town had a<br> population of 88,430. Ootacamund was rated the best hill station 
+            in means of hospitality and nature passing <br>other hill stations like Munnar and Kodaikanal.
+        </p>
+        <ul type="none" id="F">
+            <a href ="C:\Users\ADMIN\Desktop\Project O\Gardens and parks.html" id="F" target="_blank"><li>Places of interest</li></a>
+            <a href ="C:\Users\ADMIN\Desktop\Project O\Demographics and Administration politics.html" id="F" target="_blank"><li>Demographics and Administration politics</li></a>
+            <a href ="C:\Users\ADMIN\Desktop\Project O\Economy and infrastructure.html" id="F" target="_blank"><li>Economy and infrastructure</li></a>
+            <a href ="C:\Users\ADMIN\Desktop\Project O\Culture.html" id="F" target="_blank"><li>Culture</li></a>
+            <a href ="C:\Users\ADMIN\Desktop\Project O\Geography and climate.html" id="F" target="_blank"><li>Geography and climate</li></a>
+            <a href ="C:\Users\ADMIN\Desktop\Project O\Etymology and History.html" id="F" target="_blank"><li>Etymology and History</li></a>
+            </ul>
+    </body>
+</html>
